@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: Fastest to sort sorted50000.txt indicating O(n) in the order of n
+
+sort2 uses: merge sort
+
+How do you know?: Of all sorts, it took the least time in the worst case scenario (i.e. sorting reversed50000.txt) which corresponds to O(n logn)
+                  while other sorts took more time indicating O(n) in the order of n squared.
+
+sort3 uses: selection sort
+
+How do you know?: sort3 was the slowest to sort sorted50000.txt indicating O(n) in the order of n squared
